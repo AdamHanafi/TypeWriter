@@ -6,6 +6,7 @@ There are 8 + and 8 - pins in the typewriter, each connected to their dedicated 
 * filePrinter.ino: Arduino sketch allowing autonomous typing from .txt file stored in SD card.
 * TypeWriter.ino: Arduino sketch used along with Typewriter.pde to use computer keyboard input to control the typewriter.
 * utf.txt: sample file to be stored in an SD card. Note: a SEEED SD Card shield was used for this project, but any SD shield should do the job.
+* pin mapping.png: my *Brother Electronic typewriter*'s mapping to the control pins on the Arduino
 
 ## First Working Transistor Network
 ![First Working Transistor Network](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/347/627/datas/gallery.jpg)
